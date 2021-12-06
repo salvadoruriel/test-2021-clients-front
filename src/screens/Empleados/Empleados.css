@@ -1,0 +1,19 @@
+.pageContainer {
+	display: flex;
+	flex-direction: column;
+	padding-top: 10px;
+	width: 100%;
+}
+
+.tableContainer {
+	padding-top: 10px;
+	padding-bottom: 15px;
+	height: 400px;
+	width: '100%';
+}
+
+@media (min-width: 768px) {
+  .pageContainer {
+		padding-inline: 10%;
+  }
+}

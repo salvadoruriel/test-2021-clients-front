@@ -1,0 +1,48 @@
+.groupsContainer{
+	display: flex;
+	flex-direction: row;
+	margin: 10px;
+	width: 100%;
+	gap: 20px;
+}
+
+.groupsList{
+	display: flex;
+	flex-direction: column;
+	gap: 25px;
+	max-height: 300;
+	overflow: auto;
+	margin-top: 10px;
+}
+
+.groupsTitle{
+	width: 100%;
+	padding: 8px;
+}
+
+.leftDiv{
+	flex: 1;
+	max-height: 500px;
+	padding: 10px;
+	border: 1px solid rgb(214, 214, 214);
+}
+
+.rightDiv{
+	flex: 1;
+	max-height: 500px;
+	padding: 10px;
+	border: 1px solid rgb(214, 214, 214);
+}
+.rightTitle{
+	padding: 8px;
+	flex: 1;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.employeesList{
+	display: flex;
+	flex-direction: column;
+	max-height: 250;
+	overflow: auto;
+}

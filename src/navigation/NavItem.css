@@ -1,0 +1,20 @@
+.NavItem {
+  margin: 0 5px;
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+}
+
+.NavItem a {
+  color: #69b1d3;
+  text-decoration: none;
+  width: 100%;
+  box-sizing: border-box;
+  display: block;
+}
+
+.NavItem a:hover,
+.NavItem a:active,
+.NavItem a.active {
+  color: #7eddff;
+}
