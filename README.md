@@ -1,10 +1,13 @@
-# Starting
-App muestra,
-Para correr se puede descargar y estando dentro de la carpeta desde terminal escribir y correr los siguientes comandos: 
-**npm install**
-**npm start**
-O tambien se puede ver en el siguiente sitio web:
-https://cursodwsalvadoru.000webhostapp.com/buildClients/index.html
+# Front Clients Test
+Front-End test made in less than a day.
 
-## detalles
-Para hacer post me niega por CORS policy el servidor, 
+## Installing & Running
+Having downloaded the project, in the folder run the following commands from a terminal:
+```
+npm install
+npm start
+```
+The project can also be seen in the following website: [Site change pending...]()
+
+## Details
+The original server's POST endpoint fails with CORS policy. (Mocked one doesn't)
