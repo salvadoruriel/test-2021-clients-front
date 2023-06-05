@@ -17,7 +17,7 @@ const Inicio = (props) => {
 	return (
 		<div className={'inicio-container'}>
 			<Typography variant='h2'>Inicio</Typography>
-			<Typography variant='h5'>En este sitio muestra de presentan un carousel, una lista de empleados y formulario y una seleccion de grupos.</Typography>
+			<Typography variant='h5'>En este sitio muestra se presentan un carousel, una lista de empleados y formulario y una seleccion de grupos.</Typography>
 			<CoolCarousel images={images} />
 		</div>
 	);
