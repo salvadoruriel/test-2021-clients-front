@@ -10,7 +10,7 @@ Having downloaded the project, in the folder run the following commands from a t
 npm install
 npm start
 ```
-Don't forget to run the [MOCKED back-end](https://github.com/salvadoruriel/test-2021-clients-back) too!
+Don't forget to run the [MOCKED back-end](https://github.com/salvadoruriel/test-2021-clients-back-mock) too!
 
 ## Details
 The original server's POST endpoint fails with CORS policy. (Mocked one doesn't)
