@@ -1,5 +1,5 @@
 # Front Clients Test
-Front-End test made in less than a day.
+Front-End test made in less than a day to enter Factumex as a Front-End Developer.  
 _All rights reserved, Free use for non-commercial &/or non-branded projects is allowed._  
 Although all this is old by now & **no longer representative of my current quality & expertise**, so don't use this as a reference.  
 
