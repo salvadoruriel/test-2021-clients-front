@@ -1,0 +1,4 @@
+.dockerignore
+react-app.yaml
+**/.git
+**/node_modules

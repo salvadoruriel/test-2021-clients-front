@@ -5,7 +5,7 @@ export const MY_NAME = 'name_lastname';
 
 const axiosInstance = axios.create({
 	//baseURL: 'https://6edeayi7ch.execute-api.us-east-1.amazonaws.com/v1/examen/'
-	baseURL: process.env.ENDPOINT ||'http://localhost:3041/'
+	baseURL: process.env.ENDPOINT || 'http://localhost:3041/'
 })
 
 //unify reading from response
